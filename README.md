@@ -1,4 +1,4 @@
-# Java 21 Maven web application project
+# Java 21 The Maven web application project
 
 ### To generate the package
 ```
